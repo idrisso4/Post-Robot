@@ -11,5 +11,5 @@ Demo: https://www.youtube.com/watch?v=dV-r053dy6c
 
 ![](2.jpg)
 
-![](3.jpg)
+![](3.png)
 
